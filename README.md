@@ -30,4 +30,4 @@ Daily Gentoo Linux user for 6+ years. I believe in building reliable, minimal, a
 
 ---
 
-📫 **Contact:** lannuttia@gmail.com | 💼 **LinkedIn:** [linkedin.com/in/lannuttia](https://www.linkedin.com/in/anthony-lannutti-8659658a) | 📝 **Blog:** [dev.to/lannuttia](https://dev.to/lannuttia)
+📫 **Contact:** lannuttia@gmail.com | 💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/anthony-lannutti-8659658a) | 📝 **Blog:** [dev.to/lannuttia](https://dev.to/lannuttia)
