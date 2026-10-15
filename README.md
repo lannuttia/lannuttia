@@ -1,6 +1,6 @@
 # Anthony Lannutti
 
-**Senior Software Engineer @ Red Hat** | Open Source Contributor
+**Senior Software Engineer @ IBM** | Open Source Contributor
 
 I build secure, high-performance infrastructure systems with a focus on Linux, containers, and automation.
 
